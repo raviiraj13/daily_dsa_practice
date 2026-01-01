@@ -14,3 +14,20 @@ int main(){
     cout<<"The largest element in arr : "<<largest(arr,length);
     return 0;
 }
+
+
+//for gfg
+
+
+//class Solution {
+ // public:
+ //   int largest(vector<int> &nums) {
+       // // code here
+      //  int max=INT_MIN;
+     //   for(int i=0;i<nums.size();i++){
+          //  if(nums[i]>max) max=nums[i];
+        }
+       // return max;
+   // }
+//};
+
